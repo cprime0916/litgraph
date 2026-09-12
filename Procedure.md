@@ -36,11 +36,15 @@
 			~~1. NOL Spur Line: [Environmental Impact Assessment Ordinance - Project Profile](https://www.epd.gov.hk/eia/en/alpha/aspd.php?id=982)
 				1. [PP-686/2025](https://www.epd.gov.hk/eia/files/applications/en/pp_982/esb_6106/profile/20250522_NOLS_PP_ENV_Clean.pdf)
 				2. [ESB-376/2025](https://www.epd.gov.hk/eia/files/applications/en/pp_982/esb_6106/progress/action_173884/ESB-376-2025--Approval%20letter%20with%20map.pdf)~~ 
-	2. NBS:
+	2. NBS (trickiest):
 		- Papers
+	3. Method
+		- Papers
+			1. [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://doi.org/10.48550/arXiv.2411.11581)
 3. Screen papers by title and abstract.
 4. Use the same template to record the question, method, data, findings and limitations of each paper.
     
 5. Compare similarities, differences and relationships between papers.
     
 6. Organise the review by themes, methods, evidence or disagreements, rather than describing papers one by one.
+7. 
