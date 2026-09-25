@@ -4,7 +4,7 @@
 - Thematic Streams
 	1. TOD (Research Gap): TOD in HK gd; however need prove the need of change; from other sources -> find data prove need change ~~x 3-5~~ (x10-x15)
     2. NBS (Intervention): How to integrate NBS into TOD? ~~X 5~~ (x10-x15)
-    3. Technological (Method): How does GraphRAG improve multi-hop reasoning, context retrieval, and decision-making in multi-agent LLM systems compared to standard vector-based RAG? ~~X 5~~ (x10-x15)
+    3. Technological (Method): How does GraphRAG improve <mark>multi-hop reasoning</mark>, <mark>context retrieval</mark>, and <mark>decision-making</mark> in <mark>multi-agent</mark> LLM systems compared to <mark>standard vector-based RAG?</mark> ~~X 5~~ (x10-x15)
     4. ~~Domain: How to integrate multi-agent LLMs and knowledge graphs into GIS data for modelling hydrological flow and ecological systems?~~
     
 
@@ -38,10 +38,16 @@
 				2. [ESB-376/2025](https://www.epd.gov.hk/eia/files/applications/en/pp_982/esb_6106/progress/action_173884/ESB-376-2025--Approval%20letter%20with%20map.pdf)~~ 
 	2. NBS (trickiest):
 		- Papers:
-			1. [Nature-based Solutions for Resilient Ecosystems and Societies](https://doi.org/10.1007/978-981-15-4712-6) (more specifically Chapter 3)
+			1. 
 	3. Method
 		- Papers
-			1. [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://doi.org/10.48550/arXiv.2411.11581)
+			1. [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://doi.org/10.48550/arXiv.2411.11581) (multi-agent)
+			2. [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://doi.org/10.48550/arXiv.2404.16130) (context retrieval: summary)
+			3. [Semi-Supervised Classification with Graph Convolutional Networks](https://doi.org/10.48550/arXiv.1609.02907) (multi-hop reasoning)
+			4. [Graph Retrieval-Augmented Generation: A Survey](https://doi.org/10.48550/arXiv.2408.08921) (multi-hop reasoning + decision-making (comprehensiveness))
+			5. [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://doi.org/10.48550/arXiv.2310.01061) (context retrieval: structured format → prevent hallucinations etc.)
+			6. [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](https://doi.org/10.48550/arXiv.2410.12837) (standard vector-based RAG)
+			7. [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://doi.org/10.48550/arXiv.2402.01680) (multi-agent)
 3. Screen papers by title and abstract.
 4. Use the same template to record the question, method, data, findings and limitations of each paper.
     
