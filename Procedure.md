@@ -49,6 +49,8 @@
 			6. [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](https://doi.org/10.48550/arXiv.2410.12837) (standard vector-based RAG)
 			7. [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://doi.org/10.48550/arXiv.2402.01680) (multi-agent)
 			8. [Survey of Hallucination in Natural Language Generation](https://doi.org/10.1145/3571730) (context retrieval: base study (?))
+			9. [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](https://doi.org/10.48550/arXiv.2609.30238) (LLM systems: semantic processing)
+			10. [Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining](https://doi.org/10.48550/arXiv.2609.26034) (LLM systems: semantic processing)
 			
 3. Screen papers by title and abstract.
 4. Use the same template to record the question, method, data, findings and limitations of each paper.
