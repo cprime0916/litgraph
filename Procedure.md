@@ -36,7 +36,7 @@
 			~~1. NOL Spur Line: [Environmental Impact Assessment Ordinance - Project Profile](https://www.epd.gov.hk/eia/en/alpha/aspd.php?id=982)
 				1. [PP-686/2025](https://www.epd.gov.hk/eia/files/applications/en/pp_982/esb_6106/profile/20250522_NOLS_PP_ENV_Clean.pdf)
 				2. [ESB-376/2025](https://www.epd.gov.hk/eia/files/applications/en/pp_982/esb_6106/progress/action_173884/ESB-376-2025--Approval%20letter%20with%20map.pdf)~~ 
-	2. NBS (trickiest):
+	2. Nature-based solution and TOD:
 		- Papers:
 			1. 
 	3. Method
